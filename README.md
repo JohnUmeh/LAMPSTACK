@@ -19,9 +19,6 @@ It is a scripting language that allows websites to run the elements of LAMP stac
 
 First step: Log on to the AWS Cloud Services and Create an EC2 Ubuntu Virtual Machine(VM) instance. When creating the instance, choose keypair aunthentication and download private key (*.pem) on your local computer.
 
-<img
-src=“file:///home/ubuntu/image/ec2.png”
-raw=true
-alt=“ec2 page”
+![ec2](https://user-images.githubusercontent.com/77943759/216826242-67b946f0-8297-4e0b-bb85-5caf9e95c4c9.png)
 
-/>
+
