@@ -88,7 +88,7 @@ PHP serves as the programming language responsible for dynamically displaying co
 
 ![phpv](https://user-images.githubusercontent.com/77943759/216851476-9df9ebbc-b8b3-42e0-9979-369bd46c5201.png)
 
-# **CREATING VIRTUAL HOST FOR OUR WEBSITE USING APACHE
+# **CREATING VIRTUAL HOST FOR OUR WEBSITE USING APACHE**
 
 Apache VirtualHost ensures that one or more websites can run on webserver via different ip addresses. We set up Virtual host to enable us display our webcontents on web server
 
